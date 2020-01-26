@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 aa
 
 aaa
 
 3rd
 
+=======
+32
+>>>>>>> parent of aad3cc0... 3rd
