@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: nibedmutha
+Build-Jdk: 1.8.0_232
+Extension-Name: qualys-cs
+Specification-Title: The Qualys Container Scanning Connector empowers 
+ you to assess the container images built in your existing CI/CD proce
+ sses for vulnerabilities.
+Implementation-Title: qualys-cs
+Implementation-Version: 1.6.1.0
+Group-Id: com.qualys.plugins
+Short-Name: qualys-cs
+Long-Name: Qualys Container Scanning Connector
+Url: https://github.com/jenkinsci/qualys-cs-plugin
+Plugin-Version: 1.6.1.0
+Hudson-Version: 2.7.3
+Jenkins-Version: 2.7.3
+Plugin-Dependencies: credentials:2.1.10;resolution:=optional,workflow-
+ step-api:2.7,matrix-auth:1.0.2;resolution:=optional,cloudbees-folder:
+ 4.10
+Plugin-Developers: 
+
